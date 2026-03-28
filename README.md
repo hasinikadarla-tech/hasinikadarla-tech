@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Hi, I'm Hasini
+
+🚀 AI Developer | Passionate about AI, LLMs & real-world problem solving
 
 ## 👩‍💻 About Me
 
